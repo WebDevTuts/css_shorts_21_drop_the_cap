@@ -29,10 +29,12 @@ article {
 
 article p:first-child::first-letter {
   font-family: 'Sofia', cursive;
-  font-size: 4em;
+  font-size: 8em;
   float: left;
-  line-height: .9em;
-  padding: 0 20px 0 0;
+  line-height: .1em;
+  padding: 0;
+  color: rgba(255,211,141,.5);
+  margin: 0 -11px 0 -23px;
 }
 
 
