@@ -27,7 +27,7 @@ article {
 	width: 60%;
 }
 
-article p::first-letter {
+article p:first-child::first-letter {
   font-family: 'Sofia', cursive;
   font-size: 4em;
 }
