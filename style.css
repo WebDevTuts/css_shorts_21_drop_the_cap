@@ -30,6 +30,9 @@ article {
 article p:first-child::first-letter {
   font-family: 'Sofia', cursive;
   font-size: 4em;
+  float: left;
+  line-height: .9em;
+  padding: 0 20px 0 0;
 }
 
 
